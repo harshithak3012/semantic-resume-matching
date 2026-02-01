@@ -145,7 +145,7 @@ The system was validated using multiple test scenarios:
   <img width="936" height="209" alt="image" src="https://github.com/user-attachments/assets/8fac470e-786e-4b82-8d1f-57a1c94247da" />
 
 
-### Test Case 5: Financial Analyst
+### Test Case 5: Staff Nurse
 - Similarity scores: ~0.66-0.71
   <img width="932" height="616" alt="image" src="https://github.com/user-attachments/assets/ec76c099-12fa-4906-a458-727139b104f5" />
   <img width="809" height="208" alt="image" src="https://github.com/user-attachments/assets/4b405be5-7156-4bcf-82da-67ce57b0063f" />
